@@ -5,7 +5,7 @@
 />
 </p>
 
-> Café com Bug Pai é o podcast onde a vida real de um dev júnior finalmente ganha voz. Entre bugs bizarros, histórias de perrengue, aprendizados sinceros e aquele humor que só quem já chorou no deploy entende, o Dev Pai te guia pelo universo da programação de forma leve, divertida e sem termos complicados. Aqui, cada erro vira conversa, conselho e risada. Porque, no fim das contas… todo bug merece um gole de café.
+> Café com Bug Pai é o podcast onde a vida real de um dev júnior finalmente ganha voz. Entre bugs, histórias de perrengue, aprendizados e aquele humor que só quem já chorou no deploy entende, o Dev Pai te guia pelo universo da programação de forma leve, divertida e sem termos complicados. Aqui, cada erro vira conversa, conselho e risada. Porque, no fim das contas… todo bug merece um gole de café.
 
 # Projeto Podcast Gerado por I.A.s
 
