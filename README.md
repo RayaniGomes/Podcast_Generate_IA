@@ -32,7 +32,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [Notion Template](https://www.notion.so/PAS-Podcast-AI-Studio-2aa015f3e0ba812d983ddbe7508cbfe6?source=copy_link)
 - [Editor de aúdio](https://www.capcut.com/editor?from_page=landing_page&__action_from=picture_V%C3%ADdeos%20profissionais%20em%20minutos,%20n%C3%A3o%20em%20horas.)
 
-## 👨‍💻 Expert
+## 👨‍💻 Autora
 
 <p>
     <img 
